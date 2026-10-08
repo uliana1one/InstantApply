@@ -1,4 +1,5 @@
 # InstantApply
+# see full repo at https://github.com/jeevanbhatta/InstantApply
 
 An AI-powered job application assistant that automatically fills out and submits job applications on behalf of users.
 
